@@ -1,7 +1,5 @@
 # 🩺 Medical Data Categorization Tool
 
-**Author**: [Raktim Kalita](https://github.com/Rktim)
-
 **Status**: Experimental Phase
 
 ## 📖 Overview
