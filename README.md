@@ -51,4 +51,4 @@ For any questions or feedback, please reach out to [Raktim Kalita ](https://gith
 ## License
 This project is licensed under the MIT License – you are free to use, modify, distribute, and even sell it under the terms of the license.
 
-See the (LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
