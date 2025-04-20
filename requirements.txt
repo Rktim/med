@@ -4,3 +4,4 @@ seaborn== 0.13.2
 matplotlib>=3.6.0
 numpy>=1.23.0
 openpyxl
+xlsxwriter
